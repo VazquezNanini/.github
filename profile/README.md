@@ -1,7 +1,7 @@
-# *We build and deliver solutions to unleash the power of Cloud, Data & Platform Engineering*
+# **We build and deliver solutions to unleash the power of Cloud, Data & Platform Engineering**
 
 
-## *What we do*
+## **What we do**
 
 ### - Platform Engineering
 Imagine a future where IT infrastructures can monitor themselves, predict and respond to future business needs and protect and heal themselves.
