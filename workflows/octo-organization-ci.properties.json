@@ -4,10 +4,5 @@
     "iconName": "octicon beaker",
     "categories": [
         "utilities"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
     ]
 }
