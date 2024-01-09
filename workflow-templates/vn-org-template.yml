@@ -1,4 +1,4 @@
-name: Octo Organization CI
+name: Vazquez Nanini CI template
 
 on:
   push:
@@ -9,7 +9,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
 
