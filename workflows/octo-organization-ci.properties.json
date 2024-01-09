@@ -1,7 +1,7 @@
 {
     "name": "Usefull Workflow",
     "description": "Usefull CI workflow template.",
-    "iconName": "beaker",
+    "iconName": "octicon beaker",
     "categories": [
         "utilities"
     ],
