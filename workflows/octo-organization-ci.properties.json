@@ -1,9 +1,9 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI workflow template.",
-    "iconName": "example-icon",
+    "name": "Usefull Workflow",
+    "description": "Usefull CI workflow template.",
+    "iconName": "beaker",
     "categories": [
-        "Go"
+        "utilities"
     ],
     "filePatterns": [
         "package.json$",
