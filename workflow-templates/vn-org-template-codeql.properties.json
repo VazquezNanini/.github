@@ -1,0 +1,8 @@
+{
+    "name": "CodeQL Workflow",
+    "description": "CodeQL Analize workflow template.",
+    "iconName": "octicon beaker",
+    "categories": [
+        "security"
+    ]
+}
